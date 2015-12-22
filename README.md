@@ -2,9 +2,9 @@
 
 ## Description
 
-This sample podspec has been created to help resolve a cocoapod github issue. It illustrates a problem I've encountered creating private Cocoapods with Cocoapods 0.39, when the created Cocoapod depends on a 3rd party pod subspec.
+This sample podspec has been created to help resolve a CocoaPod github issue. It illustrates a problem I've encountered creating private pods when using CocoaPods 0.39 and XCode 7. The problem seem to manifest when the pod depends on a 3rd party pod subspec.
 
-The example subspec which seems to present the problem here is 'AWSiOSSDKv2/DynamoDB'
+The example subspec which seems to present the problem 'AWSiOSSDKv2/DynamoDB'
 
 ## Author
 
