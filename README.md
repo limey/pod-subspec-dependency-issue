@@ -1,0 +1,1 @@
+# pod-subspec-dependency-issue
